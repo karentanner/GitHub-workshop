@@ -1,2 +1,3 @@
 # GitHub-workshop
-Testing NCEAS example for 2019-04-08 session
+
+Example for 2019-04-08 session
